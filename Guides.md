@@ -1,5 +1,5 @@
 # Here's some important starting information.
-* Make sure you join the guild for a 10% XP boost and group up with other players as much as possible. This will speed your leveling and let you join in on operations and flashpoints sooner.
+* Make sure you join the guild for an XP boost and group up with other players as much as possible. This will speed your leveling and let you join in on operations and flashpoints sooner.
 * Read up on your class on [Dulfy](http://dulfy.net/) and [Vulkk](http://vulkk.com/) so that you know your rotation, specilization, and role -- the game's much more enjoyable when you understand the abilities and what they do.
 * _VERY IMPORTANT:_ Set up a two-factor key on your account and record the secret in a secure place. If you put any kind of time into your characters, this will both get you in-game rewards AND prevent you from losing your progress.
 
