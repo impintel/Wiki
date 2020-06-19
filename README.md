@@ -21,4 +21,4 @@ All ranks assume the rights and responsibilites of the ranks above them.
 | Minder | Cipher Agent in command of a DAC -- able to mentor Assets and Agents (guild bank withdrawal rights) | 100K repairs, 2 Withdrawals | Mentor and lead DACs |
 | Keeper | Guildmaster, responsible for choosing Conquest. | Unlimited | Organize the Guild |
 
-Deep Cover is an Asset role specified for folks who spend most of their time with other guilds. [Our policies](./Policies.md) allow and even encourage this -- we just want to keep track of who is where.
+Unaligned is an Asset role specified for folks who spend most of their time with other guilds. [Our policies](./Policies.md) allow and even encourage this -- we just want to keep track of who is where.

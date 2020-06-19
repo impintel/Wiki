@@ -18,3 +18,13 @@ DAC's should try to meet up every week or so to get used to working together. Fe
 * Operations will be a coordinated effort between two or four DAC teams -- given our size, we'll usually pair DAC's for 8M SM content, but if our members want to try something harder, they're welcome.
 * Conquest Invasions will require mass coordination of many DAC teams -- large-yield will require four or more DAC's to work together within a given week, while small yields can be finished by as few as one dedicated DAC's. We will set conquest based on the previous week's conquest. We need to see 110% of the yield target to set Medium or Large -- otherwise, we will always set Small to earn valuable encryptions.
 * _VERY IMPORTANT_: DAC's should be noted on their members' notes so that they can be easily identified and tracked.
+
+# Recruiting
+
+We don't recruit by spamming general chat, ever. Please DO NOT do this.
+
+If you're running a flashpoint with someone and they seem chill, or you find someone in game that seems cool, target them and then hit G to open the guild window. Right-click on the portrait and select Whisper. From there copy-paste the block below:
+```
+If you're enjoying the Agent storyline, we're working to continue it. We have Discord, guildship with all the banks and vendors, starparse, and regular events. Hit me up to join 
+```
+And then click the hyperlink button on the guild window. Hit enter to send.
