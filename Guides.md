@@ -2,6 +2,7 @@
 * Make sure you join the guild for an XP boost and group up with other players as much as possible. This will speed your leveling and let you join in on operations and flashpoints sooner.
 * Read up on your class on [Dulfy](http://dulfy.net/) and [Vulkk](http://vulkk.com/) so that you know your rotation, specilization, and role -- the game's much more enjoyable when you understand the abilities and what they do.
 * _VERY IMPORTANT:_ Set up a two-factor key on your account and record the secret in a secure place. If you put any kind of time into your characters, this will both get you in-game rewards AND prevent you from losing your progress.
+* If you can't find a guide or notes here for what you're trying to do, check out the [ultimate guides thread](https://www.swtor.com/community/showthread.php?t=974581) on SWTOR.com.
 
 # Direct Action Cell (DAC)
 Direct Action Cells are a unique concept for us. Cells are an attempt to get players to play to their strengths and still have fun. Ideally, DAC's will be formed of four players who can meet up at least once a week to run some flashpoints together. A given member can be part of more than one DAC, so long as they can always be around for their cell.

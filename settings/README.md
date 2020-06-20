@@ -98,8 +98,8 @@ Chat_Custom_Channels = Gsf;;1;usr.gsf;Impintel;;3;usr.impintel
 | -------- | ------ |
 | 1-9, 0, +, - | Quickbar 1 (12) -- nine rotation abilities, fast DCD, combat teleport, taunt or threat dump |
 | Ctrl+(1-9, 0, +, -) | Quickbar 2 (12) -- Nine support abilities, slow DCD, cloak-out or move cleanse, taunt or CC |
-| Alt+(1-9, 0, +, -) | Quickbar 3 (12) -- Interrupt, stunbreak, five convenience abilities, 6.0 special, medpac, rocket boost, movement ability, mount |
-| Shift+(1-5) | Quickbar 4 (5) -- Quick travel, stim, class buff, raid buff or fleet pass, out-of-combat heal |
+| Alt+(1-9, 0, +, -) | Quickbar 3 (12) -- Interrupt, stunbreak, single-target stun, four convenience abilities (the fourth should be Guard if available), 6.0 special, medpac, rocket boost, movement ability, mount |
+| Shift+(1-5) | Quickbar 4 (5) -- Out-of-combat heal, stim, class buff, raid buff or fleet pass, quicktravel |
 | Shift+Up | Next quickbar |
 | Shift+Down | Previous quickbar |
 | Ctrl+Down | Jump to quickbar 1 |
