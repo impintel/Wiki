@@ -35,3 +35,14 @@ See http://www.swtor.com/community/showthread.php?t=822400): for a breakdown of 
 * _FALLBACK_: CQC cloaks or threat-dumps, and RDPS takes threat. All group on SSP until rejuvenated, then Tanks uses Mass Mind Control to lead CQC and foes away from SSP. Most RDPS have a strong DCD rotations, but this fallback has to be executed quickly before that rotation burns out. Otherwise, you'll end up burning a combat-resurrection on the RDPS.
 * _EQUALIZE_: SSP picks one boss, and CQC picks another. All should set up a focus target on the other boss and put all their DPS on their own. Bosses should only die within 5% HP of each other.
 * _SPREAD_: A rare tactic for clearing areas of little mobs, members chose a direction in order and scatter to kill as many adds as possible, even heals.
+
+# StarParse
+[StarParse](http://www.ixparse.com/) is a tool for checking your stats in SWTOR. You can use it solo or as part of a group. We have the `ImperialIntel` raid group in StarParse -- password is posted in the pinned message in #dromundkaas on Discord.
+
+Simple way to set it up is to do the following:
+* Download and install from http://www.ixparse.com/.
+* In the game go to Settings > Game > Combat Logging and toggle `Enable combat logging to file`.
+* In StarParse, go to File > Settings > Raiding, and add the ImperialIntel raid group with the posted password.
+* In StarParse, make sure you have ImperialIntel checked under Raiding.
+
+Now you're set up! To parse, all you have to do is be in the game and have StarParse open. From there, in StarParse, click the Parse and Raiding buttons in the top and the overlay will pop up. Start fighting a dummy or start working on a flashpoint, and you'll see your stats filter in.

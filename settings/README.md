@@ -27,7 +27,7 @@ Chat_Custom_Channels = Gsf;;1;usr.gsf;Impintel;;3;usr.impintel
 | Ctrl+Up | Autorun |
 | Alt+Up | Toggle walk/run |
 | Alt+Down | Sit |
-| Spacebar | Jump |
+| Spacebar, Numpad . | Jump |
 | Ctrl+Left, Ctrl+A | Strafe left |
 | Ctrl+Right, Ctrl+D | Strafe right |
 
@@ -60,8 +60,11 @@ Chat_Custom_Channels = Gsf;;1;usr.gsf;Impintel;;3;usr.impintel
 | F9 | Max zoom in |
 | Print Screen | Screenshot |
 | ` | Chat |
-| Shift+` | Reply |
-| Alt+` | Re-whisper |
+| Shift+` | Push-to-talk (Discord reserved) |
+| Ctrl+Shift+` | Discord overlay (Discord reserved) |
+| Alt+Ctrl+` | Reply  |
+| Ctrl+` | Re-whisper |
+| Alt+` | Scroll to the bottom of chat. |
 | [ | Zoom in |
 | ] | Zoom out |
 | Ctrl+PageUp | Chat scroll up |
@@ -113,3 +116,24 @@ Chat_Custom_Channels = Gsf;;1;usr.gsf;Impintel;;3;usr.impintel
 | Shift+* | Temp quickbar slot 6 |
 | undef | Quickbar 5 -- Vendors And Droids |
 | undef | Quickbar 6 -- Social |
+
+## In FPS
+
+Abilities on numpad:
+0. Melee
+1. Reload
+2. Secondary Tool (grenade, etc.)
+3. Switch primary
+4. Character Special 1 (Fastest)
+5. Character Special 2 (Middle)
+6. Character Special 3 (Slowest)
+7. Character Special 4 (Pickup)
+8. Character Special 5 (Context)
+9. Show abilities / switch secondary
+
+Function keys:
+* Shift: Sprint
+* Ctrl: Crouch/Cover
+* Alt: Interact, e.g. Enter/Exit vehicle
+* Left mouse: Fire
+* Right mouse: zoom
