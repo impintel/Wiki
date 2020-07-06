@@ -28,3 +28,13 @@ If you're running a flashpoint with someone and they seem chill, or you find som
 If you're enjoying the Agent storyline, we're working to continue it. We have Discord, guildship with all the banks and vendors, starparse, and regular events. Hit me up to join 
 ```
 And then click the hyperlink button on the guild window. Hit enter to send.
+
+# Guild Bank
+
+We have three tabs in our guild bank.
+
+* *Dead Drop*: This is your primary place to donate. Please add any difficult-to-acquire resources here, like crafting materials, prefabs, decorations from credits, adrenals, etc. Watchers, Ciphers, and Minders can use these for operations.
+* *Strategic Cache*: This is our storage of guild project materials. Only Minders and Keeper can use the materials from here -- use this to store invasion materials, encryptions, and CStore items we can use for guild prizes.
+* *Declassified*: This is our free-use tab. Drop crafted materials like medpacs, outfits, and mounts here. Ciphers and Minders should be generally equipped to provide these resources for themselves, but this is a good place to offer starter kits for our new Agents and Assets.
+
+Our guild ledger is audited and reviewed, so please be responsible with what you do to avoid demotion.
