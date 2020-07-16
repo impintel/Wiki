@@ -160,7 +160,7 @@
 	<Companion>
 		<anchorAlignment Type="3" Value="2.000000" />
 		<anchorXOffset Type="3" Value="0.000000" />
-		<anchorYOffset Type="3" Value="-0.369352" />
+		<anchorYOffset Type="3" Value="0.000000" />
 		<scale Type="3" Value="1.000000" />
 		<enabled Type="2" Value="1" />
 		<alpha Type="3" Value="100.000000" />
@@ -215,17 +215,17 @@
 		<alpha Type="3" Value="100.000000" />
 	</VoidstarScorecard>
 	<Holocom>
-		<anchorAlignment Type="3" Value="1.000000" />
-		<anchorXOffset Type="3" Value="66.000000" />
-		<anchorYOffset Type="3" Value="320.000000" />
+		<anchorAlignment Type="3" Value="9.000000" />
+		<anchorXOffset Type="3" Value="0.000000" />
+		<anchorYOffset Type="3" Value="249.000000" />
 		<scale Type="3" Value="1.000000" />
 		<enabled Type="2" Value="1" />
 		<alpha Type="3" Value="100.000000" />
 	</Holocom>
 	<Tutorials>
 		<anchorAlignment Type="3" Value="1.000000" />
-		<anchorXOffset Type="3" Value="426.000000" />
-		<anchorYOffset Type="3" Value="255.000000" />
+		<anchorXOffset Type="3" Value="478.000000" />
+		<anchorYOffset Type="3" Value="12.000000" />
 		<scale Type="3" Value="1.000000" />
 		<enabled Type="2" Value="0" />
 		<alpha Type="3" Value="100.000000" />
@@ -294,9 +294,9 @@
 	</TargetOfTarget>
 	<ChatPanel_2>
 		<isPanel Type="2" Value="0" />
-		<anchorAlignment Type="3" Value="1.000000" />
-		<anchorOffsetX Type="3" Value="218.000000" />
-		<anchorOffsetY Type="3" Value="41.000000" />
+		<anchorAlignment Type="3" Value="7.000000" />
+		<anchorOffsetX Type="3" Value="287.000000" />
+		<anchorOffsetY Type="3" Value="175.000000" />
 		<width Type="3" Value="400.000000" />
 		<height Type="3" Value="200.000000" />
 		<FontSize Type="3" Value="14.000000" />
@@ -312,17 +312,18 @@
 	</ChatPanel_3>
 	<ChatPanel_1>
 		<anchorAlignment Type="3" Value="1.000000" />
-		<anchorOffsetX Type="3" Value="69.000000" />
-		<anchorOffsetY Type="3" Value="44.000000" />
-		<width Type="3" Value="421.000000" />
-		<height Type="3" Value="185.000000" />
+		<anchorOffsetX Type="3" Value="18.000000" />
+		<anchorOffsetY Type="3" Value="0.000000" />
+		<width Type="3" Value="594.000000" />
+		<height Type="3" Value="272.000000" />
 		<FontSize Type="3" Value="14.000000" />
+		<isPanelExpanded Type="2" Value="1" />
 	</ChatPanel_1>
 	<ChatPanel_4>
 		<isPanel Type="2" Value="0" />
 		<anchorAlignment Type="3" Value="1.000000" />
-		<anchorOffsetX Type="3" Value="0.000000" />
-		<anchorOffsetY Type="3" Value="0.000000" />
+		<anchorOffsetX Type="3" Value="97.000000" />
+		<anchorOffsetY Type="3" Value="1.000000" />
 		<width Type="3" Value="400.000000" />
 		<height Type="3" Value="200.000000" />
 		<FontSize Type="3" Value="14.000000" />
@@ -497,9 +498,9 @@
 		<alpha Type="3" Value="100.000000" />
 	</DenovaScorecard>
 	<CrewCraftingTrainerWindow>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="346.500000" />
+		<AnchorOffsetY Type="3" Value="185.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</CrewCraftingTrainerWindow>
 	<GuildCreateWindow>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -512,24 +513,24 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</MissionTerminal>
 	<LegacyWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="504.000000" />
+		<AnchorOffsetY Type="3" Value="102.500000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</LegacyWindow>
 	<GameOptions>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
+		<AnchorOffsetX Type="3" Value="-4.000000" />
+		<AnchorOffsetY Type="3" Value="6.000000" />
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</GameOptions>
 	<GuildWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="420.000000" />
+		<AnchorOffsetY Type="3" Value="29.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</GuildWindow>
 	<CrewMissions>
-		<AnchorOffsetX Type="3" Value="-80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="6.000000" />
+		<AnchorOffsetX Type="3" Value="94.000000" />
+		<AnchorOffsetY Type="3" Value="132.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</CrewMissions>
 	<WaitingPanel>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -537,7 +538,7 @@
 		<AnchorAlignment Type="3" Value="7.000000" />
 	</WaitingPanel>
 	<ElevatorBoard>
-		<AnchorOffsetX Type="3" Value="0.000000" />
+		<AnchorOffsetX Type="3" Value="1.000000" />
 		<AnchorOffsetY Type="3" Value="0.000000" />
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</ElevatorBoard>
@@ -547,24 +548,24 @@
 		<AnchorAlignment Type="3" Value="3.000000" />
 	</ViewMessageItem>
 	<DeathWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="67.000000" />
+		<AnchorOffsetY Type="3" Value="302.600000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</DeathWindow>
 	<SecureTrade>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="-6.000000" />
+		<AnchorOffsetY Type="3" Value="212.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</SecureTrade>
 	<LogWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="324.000000" />
+		<AnchorOffsetY Type="3" Value="17.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</LogWindow>
 	<AbilitiesWindow>
-		<AnchorOffsetX Type="3" Value="490.000000" />
-		<AnchorOffsetY Type="3" Value="93.000000" />
-		<AnchorAlignment Type="3" Value="7.000000" />
+		<AnchorOffsetX Type="3" Value="529.000000" />
+		<AnchorOffsetY Type="3" Value="11.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</AbilitiesWindow>
 	<JoinPanel>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -582,9 +583,9 @@
 		<AnchorAlignment Type="3" Value="6.000000" />
 	</TutorialPopupWindow>
 	<VendorWindow>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="443.500000" />
+		<AnchorOffsetY Type="3" Value="107.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</VendorWindow>
 	<GCWindow>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -592,14 +593,14 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</GCWindow>
 	<Mail>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="372.500000" />
+		<AnchorOffsetY Type="3" Value="270.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</Mail>
 	<CrewWindow>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="0.000000" />
+		<AnchorOffsetY Type="3" Value="126.000000" />
+		<AnchorAlignment Type="3" Value="4.000000" />
 	</CrewWindow>
 	<ShareMissionWindow>
 		<AnchorOffsetX Type="3" Value="80.000000" />
@@ -607,9 +608,9 @@
 		<AnchorAlignment Type="3" Value="3.000000" />
 	</ShareMissionWindow>
 	<CrewCraftingWindow>
-		<AnchorOffsetX Type="3" Value="-80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="6.000000" />
+		<AnchorOffsetX Type="3" Value="365.000000" />
+		<AnchorOffsetY Type="3" Value="250.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</CrewCraftingWindow>
 	<SpaceCombatOptions>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -627,8 +628,8 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</CustomerSupportWindow>
 	<PreferencesWindow>
-		<AnchorOffsetX Type="3" Value="348.000000" />
-		<AnchorOffsetY Type="3" Value="97.000000" />
+		<AnchorOffsetX Type="3" Value="0.000000" />
+		<AnchorOffsetY Type="3" Value="164.000000" />
 		<AnchorAlignment Type="3" Value="1.000000" />
 	</PreferencesWindow>
 	<TrainerWindow>
@@ -642,14 +643,14 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</SkillTreeWindow>
 	<WarzoneJoin>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="-54.000000" />
+		<AnchorOffsetY Type="3" Value="-102.000000" />
+		<AnchorAlignment Type="3" Value="6.000000" />
 	</WarzoneJoin>
 	<SocialWindow>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="255.500000" />
+		<AnchorOffsetY Type="3" Value="267.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</SocialWindow>
 	<QueueWindow>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -662,39 +663,39 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</WorldMapWindow>
 	<CharacterSheet>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="439.500000" />
+		<AnchorOffsetY Type="3" Value="66.500000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</CharacterSheet>
 	<QuickTravelWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
+		<AnchorOffsetX Type="3" Value="429.000000" />
 		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</QuickTravelWindow>
 	<MissionBoard>
 		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetY Type="3" Value="270.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</MissionBoard>
 	<MissionRewardWindow>
-		<AnchorOffsetX Type="3" Value="-240.000000" />
-		<AnchorOffsetY Type="3" Value="150.000000" />
-		<AnchorAlignment Type="3" Value="4.000000" />
+		<AnchorOffsetX Type="3" Value="520.000000" />
+		<AnchorOffsetY Type="3" Value="168.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</MissionRewardWindow>
 	<BankWindow>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="625.500000" />
+		<AnchorOffsetY Type="3" Value="138.500000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</BankWindow>
 	<ItemModification>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="214.000000" />
+		<AnchorOffsetY Type="3" Value="109.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</ItemModification>
 	<TaxiWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
+		<AnchorOffsetX Type="3" Value="430.000000" />
 		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</TaxiWindow>
 	<MailViewMessage>
 		<AnchorOffsetX Type="3" Value="80.000000" />
@@ -702,8 +703,8 @@
 		<AnchorAlignment Type="3" Value="3.000000" />
 	</MailViewMessage>
 	<Inventory>
-		<AnchorOffsetX Type="3" Value="201.000000" />
-		<AnchorOffsetY Type="3" Value="67.000000" />
+		<AnchorOffsetX Type="3" Value="167.000000" />
+		<AnchorOffsetY Type="3" Value="247.000000" />
 		<AnchorAlignment Type="3" Value="1.000000" />
 	</Inventory>
 	<ItemEnhancements>
@@ -712,9 +713,9 @@
 		<AnchorAlignment Type="3" Value="3.000000" />
 	</ItemEnhancements>
 	<GuildBank>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="477.500000" />
+		<AnchorOffsetY Type="3" Value="156.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</GuildBank>
 	<AdvancedClassWindow>
 		<AnchorOffsetX Type="3" Value="80.000000" />
@@ -789,14 +790,14 @@
 		<FlipHorizontal Type="2" Value="0" />
 	</CompanionCastbar>
 	<AuctionHouse>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="277.000000" />
+		<AnchorOffsetY Type="3" Value="192.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</AuctionHouse>
 	<GroupFinderPopUp>
 		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="-240.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetY Type="3" Value="227.000000" />
+		<AnchorAlignment Type="3" Value="4.000000" />
 	</GroupFinderPopUp>
 	<SelineScorecard>
 		<anchorXOffset Type="3" Value="0.000000" />
@@ -837,9 +838,9 @@
 		<alpha Type="3" Value="100.000000" />
 	</MTXStorePanel>
 	<TutorialViewerWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="286.000000" />
+		<AnchorOffsetY Type="3" Value="194.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</TutorialViewerWindow>
 	<FacialReconstructionWindow>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -872,14 +873,14 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</UpsellWindow>
 	<MTXStoreWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="340.000000" />
+		<AnchorOffsetY Type="3" Value="97.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</MTXStoreWindow>
 	<GroupFinderFilter>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="376.000000" />
+		<AnchorOffsetY Type="3" Value="138.550000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</GroupFinderFilter>
 	<GroupFinderRoleSelect>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -894,7 +895,7 @@
 	<AchievementTracker>
 		<anchorAlignment Type="3" Value="6.000000" />
 		<anchorXOffset Type="3" Value="0.000000" />
-		<anchorYOffset Type="3" Value="154.500000" />
+		<anchorYOffset Type="3" Value="116.500000" />
 		<scale Type="3" Value="1.000000" />
 		<enabled Type="2" Value="1" />
 		<alpha Type="3" Value="100.000000" />
@@ -912,9 +913,9 @@
 		<AnchorAlignment Type="3" Value="1.000000" />
 	</MacrobinocularsWindow>
 	<ArenaScorecard>
-		<anchorAlignment Type="3" Value="4.000000" />
-		<anchorXOffset Type="3" Value="-0.600000" />
-		<anchorYOffset Type="3" Value="329.000000" />
+		<anchorAlignment Type="3" Value="6.000000" />
+		<anchorXOffset Type="3" Value="-116.600000" />
+		<anchorYOffset Type="3" Value="-121.600000" />
 		<scale Type="3" Value="0.900000" />
 		<enabled Type="2" Value="1" />
 		<alpha Type="3" Value="100.000000" />
@@ -1055,9 +1056,9 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</SCFFMapWindow>
 	<StrongholdToolbar>
-		<anchorXOffset Type="3" Value="-0.050000" />
-		<anchorAlignment Type="3" Value="6.000000" />
-		<anchorYOffset Type="3" Value="160.475000" />
+		<anchorXOffset Type="3" Value="364.975000" />
+		<anchorAlignment Type="3" Value="7.000000" />
+		<anchorYOffset Type="3" Value="0.000000" />
 		<scale Type="3" Value="0.850000" />
 		<enabled Type="2" Value="1" />
 		<alpha Type="3" Value="100.000000" />
@@ -1072,13 +1073,13 @@
 	</SystemMessages>
 	<PlayerPositiveEffectTray>
 		<anchorAlignment Type="3" Value="2.000000" />
-		<anchorXOffset Type="3" Value="475.000000" />
+		<anchorXOffset Type="3" Value="450.000000" />
 		<anchorYOffset Type="3" Value="-7.000000" />
 		<scale Type="3" Value="1.000000" />
 		<enabled Type="2" Value="1" />
 		<alpha Type="3" Value="100.000000" />
 		<TrayIconsScale Type="3" Value="0.600000" />
-		<TrayMaxColumns Type="3" Value="8.000000" />
+		<TrayMaxColumns Type="3" Value="5.000000" />
 		<TrayExpandsVertical Type="2" Value="1" />
 		<TrayExpandsHorizontal Type="2" Value="1" />
 		<TraySortType Type="3" Value="0.000000" />
@@ -1148,29 +1149,29 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</StrongholdExitWindow>
 	<StrongholdEditWindow>
-		<AnchorOffsetX Type="3" Value="100.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="0.000000" />
+		<AnchorOffsetY Type="3" Value="127.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</StrongholdEditWindow>
 	<StrongholdManagementWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="262.000000" />
+		<AnchorOffsetY Type="3" Value="100.500000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</StrongholdManagementWindow>
 	<StrongholdDecorationPreviewWindow>
-		<AnchorOffsetX Type="3" Value="-100.000000" />
-		<AnchorOffsetY Type="3" Value="170.000000" />
+		<AnchorOffsetX Type="3" Value="-97.000000" />
+		<AnchorOffsetY Type="3" Value="164.000000" />
 		<AnchorAlignment Type="3" Value="4.000000" />
 	</StrongholdDecorationPreviewWindow>
 	<AllianceWindow>
 		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetY Type="3" Value="75.500000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</AllianceWindow>
 	<LegacyBankWindow>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="383.500000" />
+		<AnchorOffsetY Type="3" Value="250.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</LegacyBankWindow>
 	<StrongholdRoomUnlockWindow>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -1193,9 +1194,9 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</FlagshipCommandConsole>
 	<MissionTerminalBlue>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="356.500000" />
+		<AnchorOffsetY Type="3" Value="177.500000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</MissionTerminalBlue>
 	<EpisodeLauncher>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -1208,9 +1209,9 @@
 		<AnchorAlignment Type="3" Value="3.000000" />
 	</MissionShareWindow>
 	<DisciplineWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="619.000000" />
+		<AnchorOffsetY Type="3" Value="1.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</DisciplineWindow>
 	<StrongholdAccessManagementWindow>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -1219,16 +1220,16 @@
 	</StrongholdAccessManagementWindow>
 	<OdessenScorecard>
 		<anchorAlignment Type="3" Value="6.000000" />
-		<anchorXOffset Type="3" Value="0.000000" />
-		<anchorYOffset Type="3" Value="-84.000000" />
+		<anchorXOffset Type="3" Value="-116.000000" />
+		<anchorYOffset Type="3" Value="-120.000000" />
 		<scale Type="3" Value="1.000000" />
 		<enabled Type="2" Value="1" />
 		<alpha Type="3" Value="100.000000" />
 	</OdessenScorecard>
 	<ChosenAlignmentToggleWindow>
-		<anchorXOffset Type="3" Value="324.000000" />
-		<anchorAlignment Type="3" Value="1.000000" />
-		<anchorYOffset Type="3" Value="0.000000" />
+		<anchorAlignment Type="3" Value="5.000000" />
+		<anchorXOffset Type="3" Value="-308.000000" />
+		<anchorYOffset Type="3" Value="-62.000000" />
 		<VerticalDisplay Type="2" Value="0" />
 		<scale Type="3" Value="0.900000" />
 		<enabled Type="2" Value="1" />
@@ -1236,9 +1237,9 @@
 		<Rotation Type="3" Value="0.000000" />
 	</ChosenAlignmentToggleWindow>
 	<CharacterPreviewWindow>
-		<AnchorOffsetX Type="3" Value="519.500000" />
-		<AnchorOffsetY Type="3" Value="34.000000" />
-		<AnchorAlignment Type="3" Value="7.000000" />
+		<AnchorOffsetX Type="3" Value="56.000000" />
+		<AnchorOffsetY Type="3" Value="100.000000" />
+		<AnchorAlignment Type="3" Value="1.000000" />
 	</CharacterPreviewWindow>
 	<LegacyInventoryOverflowWindow>
 		<AnchorOffsetX Type="3" Value="80.000000" />
@@ -1246,9 +1247,9 @@
 		<AnchorAlignment Type="3" Value="3.000000" />
 	</LegacyInventoryOverflowWindow>
 	<AmpRollWindow>
-		<AnchorOffsetX Type="3" Value="0.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
-		<AnchorAlignment Type="3" Value="9.000000" />
+		<AnchorOffsetX Type="3" Value="-2.000000" />
+		<AnchorOffsetY Type="3" Value="333.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</AmpRollWindow>
 	<GuildHeraldryWindow>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -1266,13 +1267,13 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</GuildTagWindow>
 	<CrewCraftingInventoryWindow>
-		<AnchorOffsetX Type="3" Value="433.500000" />
-		<AnchorOffsetY Type="3" Value="276.500000" />
-		<AnchorAlignment Type="3" Value="7.000000" />
+		<AnchorOffsetX Type="3" Value="-70.000000" />
+		<AnchorOffsetY Type="3" Value="51.000000" />
+		<AnchorAlignment Type="3" Value="4.000000" />
 	</CrewCraftingInventoryWindow>
 	<DeconstructionWindow>
-		<AnchorOffsetX Type="3" Value="80.000000" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
+		<AnchorOffsetX Type="3" Value="79.000000" />
+		<AnchorOffsetY Type="3" Value="1.000000" />
 		<AnchorAlignment Type="3" Value="3.000000" />
 	</DeconstructionWindow>
 	<GuildBanWindow>
@@ -1286,9 +1287,9 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</GroupPvPChallengeWindow>
 	<ActivitiesWindow>
-		<AnchorOffsetX Type="3" Value="303.500000" />
-		<AnchorOffsetY Type="3" Value="71.500000" />
-		<AnchorAlignment Type="3" Value="1.000000" />
+		<AnchorOffsetX Type="3" Value="426.000000" />
+		<AnchorOffsetY Type="3" Value="221.500000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</ActivitiesWindow>
 	<GalaxyMapWindow>
 		<AnchorOffsetX Type="3" Value="0.000000" />
@@ -1296,9 +1297,9 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</GalaxyMapWindow>
 	<GalacticCommandPackViewerWindow>
-		<AnchorOffsetX Type="3" Value="12.000000" />
-		<AnchorOffsetY Type="3" Value="173.000000" />
-		<AnchorAlignment Type="3" Value="3.000000" />
+		<AnchorOffsetX Type="3" Value="433.500000" />
+		<AnchorOffsetY Type="3" Value="148.000000" />
+		<AnchorAlignment Type="3" Value="7.000000" />
 	</GalacticCommandPackViewerWindow>
 	<PackExplorerWindow>
 		<AnchorOffsetX Type="3" Value="414.000000" />
@@ -1325,4 +1326,9 @@
 		<AnchorOffsetY Type="3" Value="220.500000" />
 		<AnchorAlignment Type="3" Value="1.000000" />
 	</AmplifierWindow>
+	<WelcomeWindow>
+		<AnchorOffsetX Type="3" Value="-299.000000" />
+		<AnchorOffsetY Type="3" Value="-2.000000" />
+		<AnchorAlignment Type="3" Value="5.000000" />
+	</WelcomeWindow>
 </GUIProfile>
