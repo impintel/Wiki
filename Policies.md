@@ -19,6 +19,8 @@ DAC's should try to meet up every week or so to get used to working together. Fe
 * Conquest Invasions will require mass coordination of many DAC teams -- large-yield will require four or more DAC's to work together within a given week, while small yields can be finished by as few as one dedicated DAC's. We will set conquest based on the previous week's conquest. We need to see 110% of the yield target to set Medium or Large -- otherwise, we will always set Small to earn valuable encryptions.
 * _VERY IMPORTANT_: DAC's should be noted on their members' notes so that they can be easily identified and tracked.
 
+We will also schedule events for our members. Keeper and Minders can manage events with [Minder Zero](https://top.gg/bot/658698521570181140) as well. Use `m.create` to schedule the event, and then members can react to sign up.
+
 # Recruiting
 
 We don't recruit by spamming general chat, ever. Please DO NOT do this.

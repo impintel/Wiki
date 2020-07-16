@@ -16,8 +16,8 @@ All ranks assume the rights and responsibilites of the ranks above them.
 | Agent | Operational Guild member | 20K repairs, update member note | Have Discord |
 | Fixers | Crafter Agent | 30K repairs, 3 Withdrawals for resources | Answer Discord requests for crafting within skills |
 | Watcher | Conquest organizer -- led at least one flashpoint and completed three consecutive Conquest campaigns. | 40K repairs but no withdrawals | Clear personal Conquest weekly. |
-| Cipher | Legacy with all three [DAC](./Guides.md)-ideal classes | 50K repairs, 1 withdrawal, flagship summon rights | Participate in DAC for Conquest, 2-Factor Key |
-| Minder | Cipher Agent in command of a DAC -- able to mentor Assets and Agents (guild bank withdrawal rights) | 100K repairs, 2 Withdrawals | Mentor and lead DACs |
+| Cipher | Legacy with all three [DAC](./Guides.md)-ideal classes | 50K repairs, 1 withdrawal, flagship summon rights, guild dossier access | Participate in DAC for Conquest, 2-Factor Key |
+| Minder | Cipher Agent in command of a DAC -- able to mentor Assets and Agents (guild bank withdrawal rights) | 100K repairs, 2 Withdrawals, can schedule events | Mentor and lead DACs |
 | Keeper | Guildmaster, responsible for choosing Conquest. | Unlimited | Organize the Guild |
 
 Unaligned is an Asset role specified for folks who spend most of their time with other guilds. [Our policies](./Policies.md) allow and even encourage this -- we just want to keep track of who is where.
