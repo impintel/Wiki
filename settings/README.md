@@ -25,8 +25,8 @@ Chat_Custom_Channels = Gsf;;1;usr.gsf;Impintel;;3;usr.impintel
 | Page Up | Cover in place |
 | Page Down | Take cover |
 | Ctrl+Up | Autorun |
-| Alt+Up | Toggle walk/run |
-| Alt+Down | Sit |
+| Ctrl+Alt+Up | Toggle walk/run |
+| Ctrl+Alt+Down | Sit |
 | Spacebar, Numpad . | Jump |
 | Ctrl+Left, Ctrl+A | Strafe left |
 | Ctrl+Right, Ctrl+D | Strafe right |
@@ -60,11 +60,10 @@ Chat_Custom_Channels = Gsf;;1;usr.gsf;Impintel;;3;usr.impintel
 | F9 | Max zoom in |
 | Print Screen | Screenshot |
 | ` | Chat |
-| Shift+` | Push-to-talk (Discord reserved) |
-| Ctrl+Shift+` | Discord overlay (Discord reserved) |
-| Alt+Ctrl+` | Reply  |
-| Ctrl+` | Re-whisper |
-| Alt+` | Scroll to the bottom of chat. |
+| Ctrt+` | Push-to-talk (Discord reserved) |
+| Shift+` | Discord overlay (Discord reserved) |
+| Alt+` | Reply  |
+| Ctrl+Alt+` | Toggle Mute (Discord reserved) |
 | [ | Zoom in |
 | ] | Zoom out |
 | Ctrl+PageUp | Chat scroll up |

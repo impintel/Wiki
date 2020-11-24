@@ -466,7 +466,7 @@
 			<Key>0</Key>
 		</Keybinding>
 		<Keybinding ID="7088505467792384284" Name="ChatRewhisper">
-			<Key>1538</Key>
+			<Key>0</Key>
 			<Key>0</Key>
 			<Key>0</Key>
 		</Keybinding>
@@ -616,7 +616,7 @@
 			<Key>0</Key>
 		</Keybinding>
 		<Keybinding ID="10945091908804348255" Name="Sit">
-			<Key>322</Key>
+			<Key>326</Key>
 			<Key>0</Key>
 			<Key>0</Key>
 		</Keybinding>
@@ -656,7 +656,7 @@
 			<Key>0</Key>
 		</Keybinding>
 		<Keybinding ID="12484600393675513967" Name="AutoRun">
-			<Key>306</Key>
+			<Key>310</Key>
 			<Key>698</Key>
 			<Key>0</Key>
 		</Keybinding>
@@ -811,7 +811,7 @@
 			<Key>0</Key>
 		</Keybinding>
 		<Keybinding ID="14481850789129039556" Name="ChatBottom">
-			<Key>1540</Key>
+			<Key>0</Key>
 			<Key>0</Key>
 			<Key>0</Key>
 		</Keybinding>
@@ -931,7 +931,7 @@
 			<Key>0</Key>
 		</Keybinding>
 		<Keybinding ID="17100020466979967517" Name="ChatReply">
-			<Key>1537</Key>
+			<Key>1538</Key>
 			<Key>0</Key>
 			<Key>0</Key>
 		</Keybinding>
@@ -1002,7 +1002,7 @@
 		</Keybinding>
 		<Keybinding ID="18388047647724105933" Name="Jump">
 			<Key>256</Key>
-			<Key>0</Key>
+			<Key>880</Key>
 			<Key>0</Key>
 		</Keybinding>
 	</KeybindingGroup>
