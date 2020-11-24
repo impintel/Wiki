@@ -5,6 +5,7 @@ We play Star Wars: The Old Republic for mental reset, team-building and microman
 # Links
 * Referral: [http://www.swtor.com/r/W66QK5](http://www.swtor.com/r/W66QK5) for free subscription days
 * Discord: [https://discord.gg/nUuBXV3](https://discord.gg/nUuBXV3)
+* SWTOR Fan Community: [https://swtorfancommunity.com/guilds/imprial-intlligence-satele-shan](https://swtorfancommunity.com/guilds/imprial-intlligence-satele-shan)
 * IRC: [ircs://irc.aninix.net:6697/#dromundkaas](ircs://irc.aninix.net:6697/#dromundkaas)
 
 # Ranks

@@ -27,7 +27,7 @@ There are four roles in a DAC:
 * Assassin Guides: [Darkness (Tank)](https://vulkk.com/2019/12/05/swtor-6-0-darkness-assassin-tank-pve-guide-by-ahz/)
 
 # Common Squad Commands
-See http://www.swtor.com/community/showthread.php?t=822400): for a breakdown of terms.
+See [the master thread](http://www.swtor.com/community/showthread.php?t=822400): for a breakdown of terms.
 * _ORDER_: Form up with MDPS on point, Tank on sweep, RDPS in the middle, and heals on rearguard.
 * _STEALTH_: Speedrun past all mobs -- the Operatives will need to take turns with Infiltrate to hide the non-cloaking classes past groups larger than 3. Otherwise, the CC order follows the marching order.
 * _COVERED PULL_: The Tank and MDPS tag-team all Close-Quarters combat (CQC) after the Tank's charge -- Tank should use Guard on MDPS and MDPS applies any damage reduction or heals (like Kolto Probe) on the Tank. This mitigates a lot of damage. The heals and Sniper act as a sniper-spotter pair (SSP), keeping adds off the CQC and heals on them.
@@ -46,3 +46,6 @@ Simple way to set it up is to do the following:
 * In StarParse, make sure you have ImperialIntel checked under Raiding.
 
 Now you're set up! To parse, all you have to do is be in the game and have StarParse open. From there, in StarParse, click the Parse and Raiding buttons in the top and the overlay will pop up. Start fighting a dummy or start working on a flashpoint, and you'll see your stats filter in.
+
+# Crafting
+See [SWTORISTA's Crafting Guide](https://swtorista.com/articles/crafting-in-onslaught/) and our [Lore page](./Lore.md) for a way to lay ut crafters on your Legacy.
