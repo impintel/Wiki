@@ -1,4 +1,12 @@
 # General Policies
+* Be a good player. This should be self-explanatory, but so that it's in writing, the following are grounds for a guild ban:
+  * Discrimination of any sort (racism, etc.)
+  * Doxxing or compromising real-life information
+  * Spam or advertising
+  * Illegal activity or violating game Terms-of-Service
+  * Sabotaging or harassing other guilds or players.
+  * Posting NSFW content to anyone underage, in public channels, or in guild channels.
+  * Repeated, general lack of respect and civility, including toxic elitism.
 * Stay out of general chat as much as possible, unless recruiting for flashpoints and operations. General chat in-game is cancer.
 * If you find yourself harassed, DO NOT ANTAGONIZE. Based off Imperial Intelligence, we are a covert group and we need to maintain a low profile. Do not engage -- /ignore and report as needed.
 * Guild banks are organized and audited -- be responsible with what you take and don't sell guild resources on the GTN. Donate to backfill what you take -- flagship encryption pays for all of your weekly allotment.
