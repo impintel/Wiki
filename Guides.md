@@ -26,6 +26,28 @@ There are four roles in a DAC:
 * Sniper Guides: [Virulence: (RDPS)](https://vulkk.com/2020/01/05/swtor-6-0-virulence-sniper-pve-guide/)
 * Assassin Guides: [Darkness (Tank)](https://vulkk.com/2019/12/05/swtor-6-0-darkness-assassin-tank-pve-guide-by-ahz/)
 
+Below are some example DAC formations by class. Each DAC should form according to their player's preferences first and foremost. One could learn to run a four-person team of all Lethality Operatives, for example, with the right coordination -- skill and class understanding will trump any prebuilt group. Use these as starting blocks for how you want to organize your DAC.
+
+## Some DAC formations
+These formations optimize heals, damage mitigation, and damage dealing. They are ordered first by game, then by balance, and lastly by utility.
+
+| Nickname | Game | Tank | DPS1 | DPS2 | Heal |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Keeper's Ghosts | SWTOR | Darkness Assassin | Carnage Marauder | Lethality Operative | Medicine Operative |
+| Emperor's Hands | SWTOR | Darkness Assassin | Lethality Operative | Virulence Sniper | Medicine Operative |
+| Mandalore's Wrath | SWTOR | Shieldtech Powertech | Carnage Marauder | Deception Assassin | Bodyguard Mercenary |
+| Vader's Fist | SWTOR | Immortal Juggernaut | Pyrotech Powertech | Engineering Sniper | Corruption Sorcerer |
+| Krennic's Revenge (Shoretrooper Skin) | Battlefront II | Shielded Heavy | Assault | Specialist | Officer |
+
+## Three-man DAC formations
+These are just some topical formations for three-man teams. They should use a ranged companion as a healer and focus on DPS. They're primarily intended for Veteran flashpoints, dailies, and heroics where their high DPS allows for speedruns.
+
+| Nickname | Game | DPS1 | DPS2 | DPS2 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Inferno | SWTOR | Lethality Operative | Concealment Operative | Marksman Sniper |
+| Triumvirate | SWTOR | Rage Marauder | Madness Sorceror | Hatred Assassin |
+| Crimson Dawn | SWTOR | Advanced Prototype Powertech | Arsenal Mercenary | Pyrotech Mercenary |
+
 # Common Squad Commands
 See [the master thread](http://www.swtor.com/community/showthread.php?t=822400): for a breakdown of terms.
 * _ORDER_: Form up with MDPS on point, Tank on sweep, RDPS in the middle, and heals on rearguard.
