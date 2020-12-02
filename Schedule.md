@@ -8,7 +8,7 @@ Minimum requirement is completing the starter planet -- once off Hutta or Korrib
 
 Minder Zero event command:
 ```
-m.create --advanced -title "Flashpoints to Teach Mechanics and Abilities" -description "We will be running Veteran flashpoints to teach basic mechanics and abilities in SWTOR starting at 2100 US Central. Agents who sign up for several of these events are eligible for prizes from the Strategic Cache. <@!288682929180114954> will lead and fill any role needed. If multiple groups sign up, we will split by experience level so the groups have even balance of new and experienced members. Hopefully this will enhance your gameplay experience and open doors for you to get more loot!" -date "2020-11-21"
+m.create --advanced -title "Flashpoints to Teach Mechanics and Abilities" -description "We will be running Veteran flashpoints to teach basic mechanics and abilities in SWTOR starting at 2100 US Central. Agents who sign up for several of these events are eligible for prizes from the Strategic Cache. <@!288682929180114954> will lead and fill any role needed. If multiple groups sign up, we will split by experience level so the groups have even balance of new and experienced members. Hopefully this will enhance your gameplay experience and open doors for you to get more loot!" -date "2020-12-12"
 ```
 
 # Master-mode Progression
@@ -21,6 +21,6 @@ Please note that repeated failure to clear the basic mastermodes like Boarding P
 
 Minder Zero event command:
 ```
-m.create --advanced -title "Master-mode Flashpoint Progression" -description "We will be running a Master-mode flashpoint progression starting at 2240 US Central. Agents should have a gear rating of 280 or better and be familiar with their class's abilities. <@!288682929180114954> will lead the first DAC as Lethality MDPS -- we either need a proper DAC or will fall back to the three-man tactics. Please talk with a Minder to ensure you know your squad and progression." -date "2020-11-21"
+m.create --advanced -title "Master-mode Flashpoint Progression" -description "We will be running a Master-mode flashpoint progression starting at 2240 US Central. Agents should have a gear rating of 280 or better and be familiar with their class's abilities. <@!288682929180114954> will lead the first DAC as Lethality MDPS -- we either need a proper DAC or will fall back to the three-man tactics. Please talk with a Minder to ensure you know your squad and progression." -date "2020-12-11"
 ```
 

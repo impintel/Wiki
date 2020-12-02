@@ -4,12 +4,16 @@
 * Guild banks are organized and audited -- be responsible with what you take and don't sell guild resources on the GTN. Donate to backfill what you take -- flagship encryption pays for all of your weekly allotment.
 * Set good example and recruit good people -- everyone can /ginvite. We are not capricious like Sith, glory-driven like Mandalorians, or pompous as Jedi -- we should seek the growth and success of any member of the Imperial faction and we should contribute to the community as a whole.
 * Pay attention in group/ops chat during raids -- if you feel like verbal communication is best, use the voice channel.
+* Take responsibility! If we don't currently have anything organized for your interests, speak with Keeper and the Minders to find a way to make it happen.
+* Focus on clearing content more than getting achievements. SWTOR has a highly granular difficulty progression; if you can't clear a particular boss or mission after a few pulls, walk back to something you can clear and improve your skills before re-attempting another night. This is, after all, a game people play to relax -- a focus on completion and consistent improvement is best for morale.
 
 # Other Guilds
 Feel free to join other guilds -- we want you to have the best experience possible. Discord will be our main method of communication, and we welcome you to embed with other guilds and bring what you learn back. Just keep one alt in our guild for guild events, please.
 
+We also maintain the in-game channel that you can join with `/cjoin ImpIntel`. This is a public filter for chat to let anyone talk with us.
+
 # Conquest and Guild Projects
-Conquest is our primary membership-value tracker -- whether you want social PvE (flashpoints and ops), private PvE (crafting, heroics, reputation), or PvP (warzones and starfighter) for your experience, any rank above Fixer requires completing Conquest and donating encryption at least twice per month. Promotions are evaluated on Tuesdays when Conquest resets. Every week you miss a required Conquest clear, you will be demoted back toward Agent/Asset.
+Conquest is our primary membership-value tracker -- whether you want social PvE (flashpoints and ops), private PvE (crafting, heroics, reputation), or PvP (warzones and starfighter) for your experience, any rank above Fixer requires completing Conquest at least twice per month. Promotions are evaluated on Tuesdays when Conquest resets. Every week you miss a required Conquest clear, you will be demoted back toward Agent/Asset.
 
 # Organizing Events
 DAC's should try to meet up every week or so to get used to working together. Feel free to use a voice channel for your operations.
@@ -27,7 +31,7 @@ We don't recruit by spamming general chat, ever. Please DO NOT do this.
 
 If you're running a flashpoint with someone and they seem chill, or you find someone in game that seems cool, target them and then hit G to open the guild window. Right-click on the portrait and select Whisper. From there copy-paste the block below:
 ```
-If you're enjoying the Agent storyline, we're working to continue it. We have Discord, guildship with all the banks and vendors, starparse, and regular events. Hit me up to join 
+If you're enjoying the Agent storyline, we're working to continue the legacy of Intelligence. We have Discord, guildship with all the banks and vendors, starparse, and regular events. Hit me up to join 
 ```
 And then click the hyperlink button on the guild window. Hit enter to send.
 

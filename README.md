@@ -1,24 +1,59 @@
 # Imperial Intelligence
 
-We play Star Wars: The Old Republic for mental reset, team-building and micromanagement training. We play for the Sith Empire for its more convincing storyline, diverse cultural references, and general grimdark atmosphere.
+We play [Star Wars: The Old Republic](http://swtor.com/) on the Satele Shan server for mental reset, team-building and micromanagement training. We play for the Sith Empire for its more convincing storyline, diverse cultural references, and general grimdark atmosphere. In particular, we have found resonance with the [Imperial Intelligence](https://starwars.fandom.com/wiki/Imperial_Intelligence_(Sith_Empire) organization, and we have organized ourselves to maintain their ideals across time.
 
 # Links
 * Referral: [http://www.swtor.com/r/W66QK5](http://www.swtor.com/r/W66QK5) for free subscription days
 * Discord: [https://discord.gg/nUuBXV3](https://discord.gg/nUuBXV3)
 * SWTOR Fan Community: [https://swtorfancommunity.com/guilds/imprial-intlligence-satele-shan](https://swtorfancommunity.com/guilds/imprial-intlligence-satele-shan)
 * IRC: [ircs://irc.aninix.net:6697/#dromundkaas](ircs://irc.aninix.net:6697/#dromundkaas)
+* In-game channel: `/cjoin ImpIntel`
 
 # Ranks
 All ranks assume the rights and responsibilites of the ranks above them.
-
 | Rank | Description | Rights | Duty |
 |---|---|---|---|
 | Asset | Initial Recruit | Donate, 10K Guild repairs, guild chat | [Follow policies](./Policies.md) |
 | Agent | Operational Guild member | 20K repairs, update member note | Have Discord |
 | Fixers | Crafter Agent | 30K repairs, 3 Withdrawals for resources | Answer Discord requests for crafting within skills |
-| Watcher | Conquest organizer -- led at least one flashpoint and completed three consecutive Conquest campaigns. | 40K repairs but no withdrawals | Clear personal Conquest weekly. |
-| Cipher | Legacy with all three [DAC](./Guides.md)-ideal classes | 50K repairs, 1 withdrawal, flagship summon rights, guild dossier access | Participate in DAC for Conquest, 2-Factor Key |
-| Minder | Cipher Agent in command of a DAC -- able to mentor Assets and Agents (guild bank withdrawal rights) | 100K repairs, 2 Withdrawals, can schedule events | Mentor and lead DACs |
-| Keeper | Guildmaster, responsible for choosing Conquest. | Unlimited | Organize the Guild |
+| Watcher | [Direct Action Cell (DAC)](./Guides.md) leader candidate | 40K repairs but no withdrawals | Clear personal Conquest weekly. |
+| Cipher | Legacy with all three DAC-ideal classes, experienced in tactics and mechanics, ready to mentor Watchers in tactics | 50K repairs, 1 withdrawal, flagship summon rights, guild dossier access | Participate in DAC for Conquest, 2-Factor Key |
+| Minder | Capable Agent organizing DAC's as part of a Directorate | 100K repairs, 2 Withdrawals, can schedule events, some role-assignment rights and screening approval on Discord | Mentor and lead DACs; approve  |
+| Keeper | Guildmaster, responsible for choosing Conquest. | Unlimited | Organize the Guild; review policy changes and Directorate operations; select Minders |
 
-Unaligned is an Asset role specified for folks who spend most of their time with other guilds. [Our policies](./Policies.md) allow and even encourage this -- we just want to keep track of who is where.
+The Contact role is specified for folks who spend most of their time with other guilds. [Our policies](./Policies.md) allow and even encourage this -- we just want to keep track of who is where.
+
+# Structure
+
+Imperial Intelligence is formed of a loose, laissez-faire structure. The goal is to optimize our Agents' independence and resources while maintaining minimal necessary structure such that operations are smooth.
+* Agents are given as many resources as possible; in return, they're encouraged to pass along information to the organization as a whole and participate in events as IRL time allows.
+* Agents are also organized into Direct-Action Cells (DAC's) led by Watchers or Ciphers -- these are close-knit, four-man teams meant to create unit coherence and smooth multiplayer operations. Most team-based games, including SWTOR and Battlefront, use a four-man structure, hence the number.
+* Agents and DAC's get organized by Directorates by Minders.
+* Keeper is charged with gatekeeping these policies and the Discord server to unite the Directorates under a unified banner, maintaining the continuity of Intelligence.
+
+## Directorates within our SWTOR guild
+
+Our default Directorate is our main guild within SWTOR, `<Impérial Intélligence>`. Keeper serves as the Minder for this operation. We may form Directorates for specific game activity categories, including Role Play (RP), Operations (8- and 16-player activity), Player-vs-Player (PvP), Galactic Starfighter (GSF), or Leveling -- formation of the same will require some Minder being interested in regularly performing the duties. However, formation of these Directorates liberates player activity from Keeper's schedule and lets those with the motivation drive the availability within the guild.
+
+Let us know if you want to advance one of these categories within our SWTOR guild.
+
+## Directorates of other guilds
+
+A part of our policies is remaining covert -- as such, we are specifically avoiding the conquest of planets within SWTOR. To that end, we need to maximize our rewards while arbitrarily keeping our Conquest numbers below any planetary leaderboards. The SWTOR limit of 1000 characters per guild, along with our no-purge policy, also means that vassal guilds provide more capacity over time.
+
+As such, we are very cautiously accepting much smaller guilds into our fold. Requirements for these vassal guilds are as listed below, and membership is solely at the discretion of Keeper.
+* Strong existing member cohesion
+* Already purchased significant in-game structure, such as a guildship, guildbanks, and strongholds
+* Capable of clearing medium-yield Conquest without assistance
+* Demonstrated ability to contribute to our events and follow our policies
+* An agreement to not recruit members from other Directorates without express communication with and approval from the Minders of the same.
+
+Minder Two has been accepted to operate the `<Shadow Collective>` as a Directorate of Intelligence.
+
+## Directorates of other games
+
+Few surviving factions know the recurring cycle of defeat, developement, victory, and peacetime as do those within the Sith Empire. Even within the game, Intelligence has been broken and rebuilt a few times over. We learn from this lesson and the Sith code by breaking free of a single game.
+
+To form a Directorate, a Minder needs to talk with Keeper about a plan to institute our policies and DAC structure within the same. When the plan is solid, a topical role and category will be created for the Minder to use, and operation of the Directorate within that game will be delegated to the Minder in question.
+
+[Holdfast](https://store.steampowered.com/app/589290/Holdfast_Nations_At_War/)'s 9th Legion Marines and [Elder Scrolls Online](https://store.steampowered.com/agecheck/app/306130/)'s ImperialIntelligenceSWTOR guilds are Directorates under Minder One's oversight.
