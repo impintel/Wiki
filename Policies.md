@@ -48,8 +48,9 @@ And then click the hyperlink button on the guild window. Hit enter to send.
 We have three tabs in our guild bank.
 
 * *Dead Drop*: This is your primary place to donate. Please add any difficult-to-acquire resources here, like crafting materials, prefabs, decorations from credits, adrenals, etc. Watchers, Ciphers, and Minders can use these for operations.
-* *Strategic Cache*: This is our storage of guild project materials. Only Minders and Keeper can use the materials from here -- use this to store invasion materials, encryptions, and CStore items we can use for guild prizes.
+* *Strategic Cache*: This is our storage of guild project materials. Only Keeper can use the materials from here -- use this to store invasion materials, pre-fabs, reinforcement modules, encryptions, etc.
 * *Declassified*: This is our free-use tab. Drop crafted materials like medpacs, outfits, and mounts here. Ciphers and Minders should be generally equipped to provide these resources for themselves, but this is a good place to offer starter kits for our new Agents and Assets.
+* *The Take*: This is our guild prize tab -- prizes donated to the guild will be moved to this location for people to select from. Keeper and Minders can pull resources from this tab.
 
 Our guild ledger is audited and reviewed, so please be responsible with what you do to avoid demotion.
 
