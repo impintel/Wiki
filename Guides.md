@@ -4,6 +4,28 @@
 * _VERY IMPORTANT:_ Set up a two-factor key on your account and record the secret in a secure place. If you put any kind of time into your characters, this will both get you in-game rewards AND prevent you from losing your progress.
 * If you can't find a guide or notes here for what you're trying to do, check out the [ultimate guides thread](https://www.swtor.com/community/showthread.php?t=974581) on SWTOR.com.
 
+## An Example Legacy Progression
+
+*Note:* This layout is not designed for maximumizing yield in the game; it's designed with the idea of ensuring clearance on first attempt of content as much as possible. As such, each of these bullets can be considered personal progression points to target, before moving onto the next.
+
+1. Start with one toon, whichever [class fits you best](./Lore.md), and work on playing all the way through the class storyline. Use credits on your Legacy Character Perks in the Advancement category, and always equip your highest gear until you're level 75 and iRating 306. Don't worry about Strongholds just yet -- at this point, Vaiken Spacedock and/or Odessen will serve amply.
+  1. Work through Veteran Flashpoints until you can unlock the Legacy-wide "Ship Unlocks" and "Convenience" global unlocks.
+  1. Work on Datacrons as you pass through each planet. Ask a Minder about the Fleet datacron runs.
+  1. Make sure to complete the HK-51 storyline on this toon, so that you can unlock the Legacy unlock of the companion.
+  1. Make sure to get one companion to level 50.
+  1. At iRating 290, you can start working on Master-mode Flashpoints for additional loot.
+1. Get familiar with the Conquest system, and start finishing this regularly.
+1. Join up with a DAC (see below) to start getting a firm grasp on endgame mechanics.
+1. Level up one toon from each of the Imperial class storylines until you've completed all companion dialogs and Chapter 3 of their storyline. This gets you emotes, buffs, and Heroic Moment abilities.
+1. Look at unlocking and decorating Strongholds for Conquest buffs and social opportunities.
+1. Invest in at least one crafting specialty -- if you're not going to be an avid crafter, Biochem might have the highest utility.
+1. Start playing Unranked PvP and grouping for 8- and 16-man Operations to better learn your main class's abilities and role.
+1. Learn GTN flipping and other endgame economics.
+1. Ensure your gear is properly min-maxed for your role -- guides are readily available.
+1. Consider looking at Hard-mode Operations, Ranked PvP and Nightmare (NiM) Operations to further test yourself.
+1. Participate in events to reach Legend status on all the Reputation systems.
+1. Complete the Republic storyline for any remaining datacrons and Legendary player flair.
+
 # Direct Action Cell (DAC)
 Direct Action Cells are a unique concept for us. Cells are an attempt to get players to play to their strengths and still have fun. Ideally, DAC's will be formed of four players who can meet up at least once a week to run some flashpoints together. A given member can be part of more than one DAC, so long as they can always be around for their cell.
 

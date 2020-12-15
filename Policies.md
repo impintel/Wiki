@@ -4,7 +4,7 @@
   * Doxxing or compromising real-life information
   * Spam or advertising
   * Illegal activity or violating game Terms-of-Service
-  * Sabotaging or harassing other guilds or players.
+  * Sabotaging or harassing guilds or players.
   * Posting NSFW content to anyone underage, in public channels, or in guild channels.
   * Repeated, general lack of respect and civility, including toxic elitism.
 * Stay out of general chat as much as possible, unless recruiting for flashpoints and operations. General chat in-game is cancer.
@@ -52,3 +52,72 @@ We have three tabs in our guild bank.
 * *Declassified*: This is our free-use tab. Drop crafted materials like medpacs, outfits, and mounts here. Ciphers and Minders should be generally equipped to provide these resources for themselves, but this is a good place to offer starter kits for our new Agents and Assets.
 
 Our guild ledger is audited and reviewed, so please be responsible with what you do to avoid demotion.
+
+# Data Security Model
+
+Our data security model encompasses our use of three cloud computing technologies: GitHub, SWTOR, and Discord. Our presence in these technologies is audited and maintained by Keeper. Access to Confidential material and above is granted only by Keeper or Minders -- they will verify new members through the `#screening` channel in Discord to assign the correct access. Any Agent can authorize Public Trust access.
+
+Please keep in mind that data security is nominally tied to our [rank structure](./README.md#ranks) -- higher ranks include more guild rights and more information access, because they demonstrate more dedication and trust.
+
+Typical access examples:
+
+| Personnel type | Information Access | Assignments |
+| -------------- | ------------------ | ----------- |
+| Newcomer       | Public, Public Trust | SWTOR ginvite |
+| Member of another Guild | Public, Confidential, Code-word | Discord OpSec and Ambassadors roles |
+| Idle player | Public through Secret | SWTOR ginvite, Discord OpSec and Contacts roles |
+| Active member | Public Trust through Secret | SWTOR ginvite, Discord OpSec and Agent roles | 
+| DAC or Directorate leader | Public Trust through Top Secret | SWTOR ginvite; Discord OpSec, Agent, and rank role |
+
+More specific code-word clearances will be managed by that Directorate's Minder or Keeper.
+
+## Public Information
+
+*Role: Anyone*
+
+Anything said in general, group, or ops chats should be considered Public information and accessible by anyone, both friend and foe. This Wiki is also considered Public information -- nothing included here allows another guild to gain advantage over us nor could it not be devised from existing public material. In general, try to avoid disseminating too much information in the Public zone.
+
+## Public Trust
+
+*Role: Guild membership* 
+
+Information in our guild chats in-game or the `/cjoin ImpIntel` channel should be considered Public Trust -- they're more private than Public information, but because of our open-doors policy they're vulnerable to spies. This is the safest place for Assets and Agents to communicate, and they can grant access to this information with a /ginvite. 
+
+## Confidential 
+
+*Discord Role: OpSec*
+
+This is basic information that we want some layer of strong authentication for. At this point, our data model transitions out of the SWTOR client and into Discord -- access to Confidential material is granted by the `OpSec` role and can be granted by Minders to those joining our Discord. This grants access to the DACCOM categoy in Discord.
+
+While effectively all members of our Discord, aka. `@everyone`, should count for Confidential access, we use a specific role in order to support our sign-up bot and to ensure that folks have passed screening. When new folks join Discord, it's the responsibility of a Minder or Keeper to assign their roles and grant the appropriate access. Additional roles will be assigned on top of screening. 
+
+We notably do not use a role-assignment bot in Discord for this access, and this is by design. Because we keep a permanently-available Discord link, to damage spies abilities, you have to communicate with a real, trusted member of Intelligence in order to get access to our information. This creates some potential for delay in access and a bit of workload on the Minders and Keeper, but we believe this is necessary to avoid Discord-bombing and other disruptive behavior or sabotage.
+
+## Secret
+
+*Discord Roles: Contacts, Agents*
+
+Secret information is more sensitive than Confidential and can include things like private discussions within our Discord, bot control, our guild project tracking, guild announcements, etc. The nuanced difference between an Agent and a Contact is whether they get directed communications and announcements as notifications - we try not to mention the Contacts role as often, so most members should have the Agents role. Those only casually working with our guild or stepping back should be relegated to the Contacts role to avoid the urgency of push notifications; regardless of rank, any active member should have the Agents role. Rank roles may be assigned on top of that role.
+
+## Top Secret
+
+*Discord Role: Watchers, Ciphers, Minders, Keeper*
+
+This information is considered privileged to dedicated members within Intelligence and its vassal guilds -- it's controlled by the rank roles. Information within this classification includes PvP strategies and open-world tracking, guild dossiers, guild records, and our own Imperial Security Bureau (ISB) for tracking/reporting policy violations.
+
+All Agents given Top Secret clearance should have to verify that they have read these policies and in particular this data security model, so that they understand what it means and the responsibility to handle it appropriately. Repeat mishandling of information is grounds for demotion; deliberate disclosure of information to unauthorized persons is grounds for a ban. 
+
+## Code-word Classifications
+
+*Discord Role: Varies by code-word*
+
+Several of our Discord channels are locked to specific roles. 
+
+* `Fixers`: This is a mention-only role for notifying crafters.
+* `Ambassadors`: This role grants access to the Embassy category, which is Keeper's tracking of relationships with other guilds. Minders are allowed to audit these relationships, in case of Keeper's absence.
+* `Fleet Datacron`: This role is targeted to our Fleet datacron and should only be tagged on members needing that completion or allies who have an agreement to borrow our strategy with Keeper.
+* Individual Directorates may also receive code-word roles/categories within Discord.
+
+## Eyes-Only
+
+Information in the eyes-only category is so sensitive we will only handle it across IRC. Use of this classification is extremely rare.
