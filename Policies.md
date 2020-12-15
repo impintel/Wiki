@@ -66,8 +66,8 @@ Typical access examples:
 | Newcomer       | Public, Public Trust | SWTOR ginvite |
 | Member of another Guild | Public, Confidential, Code-word | Discord OpSec and Ambassadors roles |
 | Idle player | Public through Secret | SWTOR ginvite, Discord OpSec and Contacts roles |
-| Active member | Public Trust through Secret | SWTOR ginvite, Discord OpSec and Agent roles | 
-| DAC or Directorate leader | Public Trust through Top Secret | SWTOR ginvite; Discord OpSec, Agent, and rank role |
+| Active member | Public through Secret | SWTOR ginvite, Discord OpSec and Agent roles | 
+| DAC or Directorate leader | Public through Top Secret | SWTOR ginvite; Discord OpSec, Agent, and rank role |
 
 More specific code-word clearances will be managed by that Directorate's Minder or Keeper.
 
