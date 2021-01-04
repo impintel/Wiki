@@ -52,14 +52,3 @@ Few surviving factions know the recurring cycle of defeat, developement, victory
 To form a Directorate, a Minder needs to talk with Keeper about a plan to institute our policies and DAC structure within the same. When the plan is solid, a topical role and category will be created for the Minder to use, and operation of the Directorate within that game will be delegated to the Minder in question.
 
 [Holdfast](https://store.steampowered.com/app/589290/Holdfast_Nations_At_War/)'s 9th Legion Marines and [Elder Scrolls Online](https://store.steampowered.com/agecheck/app/306130/)'s ImperialIntelligenceSWTOR guilds are Directorates under Minder One's oversight.
-
-## Codeword Assignments
-Codewords are assigned to specific activity according to our data security model. Some open codewords are below to be used in the #lfg channel on Discord: 
-* PVP: Those that fight within SWTOR's PVP arena.
-* GSF/Squadrons: pilots that fly in either Galactic Starfighter or [Star Wars: Squadrons](https://store.steampowered.com/app/1222730/STAR_WARS_Squadrons/).
-* Battlefront II: specialists ready to advance the cause within [Star Wars Battlefront II](https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/) or any of its predecessors
-
-Some codewords are only assigned by Keeper or a Minder.
-* Droids: Discord bots chosen by Keeper (several of these have their own dedicated codeword for the integration)
-* Ambassador: Guild representatives from other guilds
-* Fleet Datacron: Users organizing for an unlock of the fleet datacron.

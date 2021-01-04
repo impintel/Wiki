@@ -80,15 +80,15 @@ Anything said in general, group, or ops chats should be considered Public inform
 
 ## Public Trust
 
-*Role: Guild membership* 
+*Role: Guild membership or Ambassador relationship* 
 
-Information in our guild chats in-game or the `/cjoin ImpIntel` channel should be considered Public Trust -- they're more private than Public information, but because of our open-doors policy they're vulnerable to spies. This is the safest place for Assets and Agents to communicate, and they can grant access to this information with a /ginvite. 
+Information in our guild chats in-game or the `/cjoin ImpIntel` channel should be considered Public Trust -- they're more private than Public information, but because of our open-doors policy they're vulnerable to spies. This is the safest place for Assets and Agents to communicate in-game, and they can grant access to this information with a /ginvite or disclosing the channel key.  The screening channel on Discord also fits this classification.
 
 ## Confidential 
 
 *Discord Role: OpSec*
 
-This is basic information that we want some layer of strong authentication for. At this point, our data model transitions out of the SWTOR client and into Discord -- access to Confidential material is granted by the `OpSec` role and can be granted by Minders to those joining our Discord. This grants access to the DACCOM categoy in Discord.
+This is basic information that we want some layer of strong authentication for. At this point, our data model transitions out of the SWTOR client and into Discord -- access to Confidential material is granted by the `OpSec` role and can be granted by Minders to those joining our Discord.
 
 While effectively all members of our Discord, aka. `@everyone`, should count for Confidential access, we use a specific role in order to support our sign-up bot and to ensure that folks have passed screening. When new folks join Discord, it's the responsibility of a Minder or Keeper to assign their roles and grant the appropriate access. Additional roles will be assigned on top of screening. 
 
@@ -98,7 +98,7 @@ We notably do not use a role-assignment bot in Discord for this access, and this
 
 *Discord Roles: Contacts, Agents*
 
-Secret information is more sensitive than Confidential and can include things like private discussions within our Discord, bot control, our guild project tracking, guild announcements, etc. The nuanced difference between an Agent and a Contact is whether they get directed communications and announcements as notifications - we try not to mention the Contacts role as often, so most members should have the Agents role. Those only casually working with our guild or stepping back should be relegated to the Contacts role to avoid the urgency of push notifications; regardless of rank, any active member should have the Agents role. Rank roles may be assigned on top of that role.
+Secret information is more sensitive than Confidential and can include things like private discussions within our Discord, bot control, our guild project tracking, guild announcements, etc. The nuanced difference between an Agent and a Contact is whether they get directed communications and announcements as notifications - we try not to mention the Contacts role as often, so most members should have the Agents role. Those only casually working with our guild or stepping back should be relegated to the Contacts role to avoid the urgency of push notifications; regardless of rank, any active member should have the Agents role. Rank roles may be assigned on top of that role. 
 
 ## Top Secret
 
@@ -112,12 +112,15 @@ All Agents given Top Secret clearance should have to verify that they have read 
 
 *Discord Role: Varies by code-word*
 
-Several of our Discord channels are locked to specific roles. 
-
+Several of our Discord channels are locked to specific roles and assigned only by Keeper.
 * `Fixers`: This is a mention-only role for notifying crafters.
 * `Ambassadors`: This role grants access to the Embassy category, which is Keeper's tracking of relationships with other guilds. Minders are allowed to audit these relationships, in case of Keeper's absence.
 * `Fleet Datacron`: This role is targeted to our Fleet datacron and should only be tagged on members needing that completion or allies who have an agreement to borrow our strategy with Keeper.
-* Individual Directorates may also receive code-word roles/categories within Discord.
+* `Droids`: this codeword classification means some automated data system is granted access to our information to provide better utility to our agents.
+
+Some code-words are available for agents to select with the Quartermaster bot on Discord. This is mostly for controlling notifications' relevance and avoiding alert fatigue, though there is a nominal degree of operational control involved.
+* Individual Directorates also receive code-word roles/categories within Discord. 
+* Gameplay categories or games without guilds may also receive an opt-in codeword -- this includes things like PvP, GSF/Squadrons, and Battlefront II.
 
 ## Eyes-Only
 
