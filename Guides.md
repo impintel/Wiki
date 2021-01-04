@@ -4,6 +4,8 @@
 * _VERY IMPORTANT:_ Set up a two-factor key on your account and record the secret in a secure place. If you put any kind of time into your characters, this will both get you in-game rewards AND prevent you from losing your progress.
 * If you can't find a guide or notes here for what you're trying to do, check out the [ultimate guides thread](https://www.swtor.com/community/showthread.php?t=974581) on SWTOR.com.
 
+Class references on this Wiki are all referential to Imperial classes, but each Imperial class has a Republic class equivalent, should you choose to use one.
+
 ## An Example Legacy Progression
 
 *Note:* This layout is not designed for maximumizing yield in the game; it's designed with the idea of ensuring clearance on first attempt of content as much as possible. As such, each of these bullets can be considered personal progression points to target, before moving onto the next.
@@ -27,6 +29,40 @@
 1. Consider looking at Hard-mode Operations, Ranked PvP and Nightmare (NiM) Operations to further test yourself.
 1. Participate in events to reach Legend status on all [the Reputation systems](http://dulfy.net/2013/02/12/swtor-galactic-reputation-guide/) -- [backup link](https://web.archive.org/web/20201112032951/http://dulfy.net/2013/02/12/swtor-galactic-reputation-guide/).
 1. Complete the Republic storyline for any remaining datacrons and Legendary player flair.
+
+# Stealth in SWTOR
+
+We are an intelligence-focused group, and as such we make high use of stealth techniques in all of our operations, from story leveling to operations and PvP.
+
+The real key to stealth is to keep "Target Closest Enemy" on keybind and always watch the buffs and range indicators on the closest enemy. As long as you watch these and know your phases, stealth becomes easy.
+
+## Passive Stealth
+
+Passive stealth is used by staying far enough away from enemy NPC's that they don't attack you. This can be anywhere between 10m and 30m, depending on the operation. Running outside this detection range allows a player to bypass mobs and even some bosses, saving a lot of time and potentially repair bills. This is especially important for classes without other stealth abilities, like Snipers, Sorcerors, Bounty Hunters, and Juggernauts.
+
+A variant of this is using jump-in abilities, like the Assassin's Phantom Stride, Warrior's Force Charge, Operative's Holotraverse, or Powertech's Jet charge to jump over one mob and attack a second. So far, our testing seems to show that detection doesn't work while the ability is active and only the target group will be pulled.
+
+Fair warning: there are location triggers in some maps that will automatically attack players based on location.
+
+## Mechanic-driven Stealth
+
+Mount stealth is using the evasion mechanic in-game to avoid mobs. While mounted, damage reduction and movement speed are increased. Even if mobs detect and attack you, keep driving as far away as quickly as possible; over time, the player character will evade all the NPC's and be free and clear.
+
+Phase stealth allows a player to capitalize on phase exits or event triggers to run through groups of adds and then lose them in the mechanics of the game.
+
+## Singleton Active Stealth Abilities
+
+Three advanced classes have singleton stealth abilities: Marauders, Operatives, and Assassins. Marauders can use Force Camoflage for a very short window and with a cooldown -- while this ability is generally intended to dump threat during boss fights, it also serves effectively to bypass choke points. Assassins and Operatives can make use of different variations on the Stealth ability, which lasts infinitely with a much shorter cooldown than Force Camoflage.
+
+Assassins can use Force Cloak and Operatives can use Cloaking Screen to break combat and enter stealth again. This is helpful for "stealth-rezzing" fallen comrades, so long as you don't aggro more adds when you exit stealth. It also helps avoid adds that you accidentally pulled, although in a group this just passes the threat to the next closest member. Assassins can enhance this with the Two Cloaks tactical, at the expense of other DPS or damage mitigation.
+
+Be aware that some enemies have a stealth detection ability. Some cast an area-of-effect with a visible animation to do that; these you can time your movement to bypass. Others, particularly bosses, will have a buff that detects stealth within a certain range. No stealth ability will get you past these.
+
+## Group Stealth Abilities
+
+Assassins and Operatives have an ability that can allow them to stealth a group inside detection range. For Assassins, this is Mind Maze and for Operatives it's Sleep Dart. You can use these abilities to stun adds at choke points and allow non-stealth classes to slip past. Assassins even have a tactical, Multitrap, that allows multiple of these stealth stuns.
+
+Operatives have a final ability that has remarkable utility. Assuming that your group isn't solely made up of Assassins and Operatives, these stealth CC's will only allow a group to control 1-3 adds. Operatives, though, have a mass-cloak ability called Infiltrate that allows them to cloak an entire group for a short time. The best way to use this ability is for the Operative to tell the group to stack up on one player and run. The Operative then chases the group to keep them within the area of effect.
 
 # Direct Action Cell (DAC)
 Direct Action Cells are a unique concept for us. Cells are an attempt to get players to play to their strengths and still have fun. Ideally, DAC's will be formed of four players who can meet up at least once a week to run some flashpoints together. A given member can be part of more than one DAC, so long as they can always be around for their cell.
