@@ -11,6 +11,7 @@ We play [Star Wars: The Old Republic](http://swtor.com/) on the Satele Shan serv
 
 # Ranks
 All ranks assume the rights and responsibilites of the ranks above them.
+
 | Rank | Description | Rights | Duty |
 |---|---|---|---|
 | Asset | Initial Recruit | Donate, 10K Guild repairs, guild chat | [Follow policies](./Policies.md) |
