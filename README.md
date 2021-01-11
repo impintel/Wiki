@@ -6,11 +6,11 @@ We play [Star Wars: The Old Republic](http://swtor.com/) on the Satele Shan serv
 * Referral: [http://www.swtor.com/r/W66QK5](http://www.swtor.com/r/W66QK5) for free subscription days
 * Discord: [https://discord.gg/nUuBXV3](https://discord.gg/nUuBXV3)
 * SWTOR Fan Community: [https://swtorfancommunity.com/guilds/imprial-intlligence-satele-shan](https://swtorfancommunity.com/guilds/imprial-intlligence-satele-shan)
-* IRC: [ircs://irc.aninix.net:6697/#dromundkaas](ircs://irc.aninix.net:6697/#dromundkaas)
+* IRC: [ircs://irc.AniNIX.net:6697/#dromundkaas](ircs://irc.aninix.net:6697/#dromundkaas)
 * In-game channel: `/cjoin ImpIntel`
 
 # Ranks
-All ranks assume the rights and responsibilites of the ranks above them.
+All ranks assume the rights and responsibilities of the ranks above them.
 
 | Rank | Description | Rights | Duty |
 |---|---|---|---|
@@ -19,7 +19,7 @@ All ranks assume the rights and responsibilites of the ranks above them.
 | Fixers | Crafter Agent | 30K repairs, 3 Withdrawals for resources | Answer Discord requests for crafting within skills |
 | Watcher | [Direct Action Cell (DAC)](./Guides.md) leader candidate | 40K repairs but no withdrawals, flagship summons, dossier access | Clear personal Conquest weekly. |
 | Cipher | Capable Legacy experienced in tactics and mechanics, ready to mentor Watchers in tactics | 50K repairs, 1 withdrawal, can set Conquest | Participate in DAC for Conquest, [2-Factor Key](https://www.swtor.com/info/security-key) |
-| Minder | Capable Agent organizing DAC's as part of a Directorate | 100K repairs, 2 Withdrawals, can schedule events, guild MOTD and perks, some role-assignment rights and screening approval on Discord | Mentor and lead DACs; Keeper's approval |
+| Minder | Capable Agent organizing DAC's as part of a Directorate | 100K repairs, 2 Withdrawals, can schedule events, guild MOTD and perks, some role-assignment rights and screening approval on Discord | Mentor and lead DAC's; Keeper's approval |
 | Keeper | Guildmaster, responsible for choosing Conquest. | Unlimited | Organize the Guild; review policy changes and Directorate operations; select Minders |
 
 The Contact role is specified for folks who spend most of their time with other guilds. [Our policies](./Policies.md) allow and even encourage this -- we just want to keep track of who is where.
@@ -40,15 +40,14 @@ A part of our policies is remaining covert -- as such, we are specifically avoid
 
 We are very cautiously accepting much smaller guilds into our fold. Requirements for these vassal guilds are as listed below, and membership is solely at the discretion of Keeper.
 * Strong existing member cohesion
-* Already purchased significant in-game structure, such as a guildship, guildbanks, and strongholds
+* Already purchased significant in-game structure, such as a guildship, guild banks, and strongholds
 * Capable of clearing medium-yield Conquest without assistance
 * Demonstrated ability to contribute to our events and follow our policies
 * An agreement to not recruit members from other Directorates without express communication with and approval from the Minders of the same.
 
-
 ## Directorates of other games
 
-Few surviving factions know the recurring cycle of defeat, developement, victory, and peacetime as do those within the Sith Empire. Even within the game, Intelligence has been broken and rebuilt a few times over. We learn from this lesson and the Sith code by breaking free of a single game.
+Few surviving factions know the recurring cycle of defeat, development, victory, and peacetime as do those within the Sith Empire. Even within the game, Intelligence has been broken and rebuilt a few times over. We learn from this lesson and the Sith code by breaking free of a single game.
 
 To form a Directorate, a Minder needs to talk with Keeper about a plan to institute our policies and DAC structure within the same. When the plan is solid, a topical role and category will be created for the Minder to use, and operation of the Directorate within that game will be delegated to the Minder in question.
 

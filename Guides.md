@@ -8,19 +8,19 @@ Class references on this Wiki are all referential to Imperial classes, but each 
 
 ## An Example Legacy Progression
 
-*Note:* This layout is not designed for maximumizing yield in the game; it's designed with the idea of ensuring clearance on first attempt of content as much as possible. As such, each of these bullets can be considered personal progression points to target, before moving onto the next.
+*Note:* This layout is not designed for maximizing yield in the game; it's designed with the idea of ensuring clearance on first attempt of content as much as possible. As such, each of these bullets can be considered personal progression points to target, before moving onto the next.
 
 *Second Note*: Each concept is linked to a guide that we feel will help achieve your goals. This includes links to Vulkk, SWTORista, SWTOR-Spy, IGN, and Dulfy.
 
 1. Start with one toon, whichever [class fits you best](./Lore.md), and work on playing all the way through [the class storyline](https://vulkk.com/2017/04/28/swtor-step-by-step-guide-to-leveling-and-gearing-up-your-character-for-endgame/). Use credits on your Legacy Character Perks in the Advancement category, and always equip your highest gear until you're level 75 and iRating 306. Don't worry about Strongholds just yet -- at this point, Vaiken Spacedock and/or Odessen will serve amply.
   1. Work through Veteran Flashpoints until you can unlock the Legacy-wide "Ship Unlocks" and "Convenience" global unlocks.
-  1. Work on [Datacrons](http://www.swtor-spy.com/datacrons/) as you pass through each planet. Ask a Minder about the Fleet datacron runs.
+  1. Work on [Datacrons](http://www.swtor-spy.com/datacrons/) as you pass through each planet. Ask a Minder about the Fleet Datacron runs.
   1. Make sure to complete the [HK-51 storyline](https://www.ign.com/wikis/star-wars-the-old-republic/HK-51_Walkthrough) on this toon, so that you can unlock the Legacy unlock of the companion. This is a good time to mobilize friends, as many players can scan for the parts and everyone can loot it.
   1. Make sure to get one companion to level 50.
   1. At iRating 290, you can start working on [Master-mode Flashpoints](https://vulkk.com/tag/swtor-flashpoints-guides/) for additional loot.
 1. Get familiar with the Conquest system, and start finishing this regularly.
 1. Join up with a DAC (see below) to start getting a firm grasp on endgame mechanics.
-1. Level up one toon from each of the Imperial class storylines until you've completed all companion dialogs and Chapter 3 of their storyline. This gets you emotes, buffs, and Heroic Moment abilities.
+1. Level up one toon from each of the Imperial class storylines until you've completed all companion dialogues and Chapter 3 of their storyline. This gets you emotes, buffs, and Heroic Moment abilities.
 1. Look at unlocking and decorating [Strongholds](https://swtorista.com/articles/swtor-stronghold-guide/) for Conquest buffs and social opportunities.
 1. Invest in at least one [crafting specialty](https://swtorista.com/articles/crafting-in-onslaught) -- if you're not going to be an avid crafter, Biochem might have the highest utility.
 1. Ensure your gear is [properly min-maxed for your role](https://vulkk.com/2017/06/29/swtor-beginners-guide-to-all-classes-and-disciplines/).
@@ -28,7 +28,7 @@ Class references on this Wiki are all referential to Imperial classes, but each 
 1. Learn GTN flipping and other endgame economics.
 1. Consider looking at Hard-mode Operations, Ranked PvP and Nightmare (NiM) Operations to further test yourself.
 1. Participate in events to reach Legend status on all [the Reputation systems](http://dulfy.net/2013/02/12/swtor-galactic-reputation-guide/) -- [backup link](https://web.archive.org/web/20201112032951/http://dulfy.net/2013/02/12/swtor-galactic-reputation-guide/).
-1. Complete the Republic storyline for any remaining datacrons and Legendary player flair.
+1. Complete the Republic storyline for any remaining Datacrons and Legendary player flair.
 
 # Stealth in SWTOR
 
@@ -38,7 +38,7 @@ The real key to stealth is to keep "Target Closest Enemy" on keybind and always 
 
 ## Passive Stealth
 
-Passive stealth is used by staying far enough away from enemy NPC's that they don't attack you. This can be anywhere between 10m and 30m, depending on the operation. Running outside this detection range allows a player to bypass mobs and even some bosses, saving a lot of time and potentially repair bills. This is especially important for classes without other stealth abilities, like Snipers, Sorcerors, Bounty Hunters, and Juggernauts.
+Passive stealth is used by staying far enough away from enemy NPC's that they don't attack you. This can be anywhere between 10m and 30m, depending on the operation. Running outside this detection range allows a player to bypass mobs and even some bosses, saving a lot of time and potentially repair bills. This is especially important for classes without other stealth abilities, like Snipers, Sorcerers, Bounty Hunters, and Juggernauts.
 
 A variant of this is using jump-in abilities, like the Assassin's Phantom Stride, Warrior's Force Charge, Operative's Holotraverse, or Powertech's Jet charge to jump over one mob and attack a second. So far, our testing seems to show that detection doesn't work while the ability is active and only the target group will be pulled.
 
@@ -52,7 +52,7 @@ Phase stealth allows a player to capitalize on phase exits or event triggers to 
 
 ## Singleton Active Stealth Abilities
 
-Three advanced classes have singleton stealth abilities: Marauders, Operatives, and Assassins. Marauders can use Force Camoflage for a very short window and with a cooldown -- while this ability is generally intended to dump threat during boss fights, it also serves effectively to bypass choke points. Assassins and Operatives can make use of different variations on the Stealth ability, which lasts infinitely with a much shorter cooldown than Force Camoflage.
+Three advanced classes have singleton stealth abilities: Marauders, Operatives, and Assassins. Marauders can use Force Camouflage for a very short window and with a cooldown -- while this ability is generally intended to dump threat during boss fights, it also serves effectively to bypass choke points. Assassins and Operatives can make use of different variations on the Stealth ability, which lasts infinitely with a much shorter cooldown than Force Camouflage.
 
 Assassins can use Force Cloak and Operatives can use Cloaking Screen to break combat and enter stealth again. This is helpful for "stealth-rezzing" fallen comrades, so long as you don't aggro more adds when you exit stealth. It also helps avoid adds that you accidentally pulled, although in a group this just passes the threat to the next closest member. Assassins can enhance this with the Two Cloaks tactical, at the expense of other DPS or damage mitigation.
 
@@ -67,7 +67,7 @@ Operatives have a final ability that has remarkable utility. Assuming that your 
 # Direct Action Cell (DAC)
 Direct Action Cells are a unique concept for us. Cells are an attempt to get players to play to their strengths and still have fun. Ideally, DAC's will be formed of four players who can meet up at least once a week to run some flashpoints together. A given member can be part of more than one DAC, so long as they can always be around for their cell.
 
-Individual DAC's do not follow a leader-followers paradigm -- each cell member is expected to sound off with tactics that they think will make the run easier, and barring any objections the rest of the cell should follow. Those who don't know should listen to those that do, but if someone wants to try something new, the cell should accomodate within reason. This is to turn the cell into a living, adaptive suite where cell members recognize tasks that not only make their life easier but also help out the others. Eventually, with enough practice, a DAC will be able to complete smooth runs on all missions without even needing to type in chat.
+Individual DAC's do not follow a leader-followers paradigm -- each cell member is expected to sound off with tactics that they think will make the run easier, and barring any objections the rest of the cell should follow. Those who don't know should listen to those that do, but if someone wants to try something new, the cell should accommodate within reason. This is to turn the cell into a living, adaptive suite where cell members recognize tasks that not only make their life easier but also help out the others. Eventually, with enough practice, a DAC will be able to complete smooth runs on all missions without even needing to type in chat.
 
 There are four roles in a DAC:
 * Tank: These units are always the first hitters to make contact in any engagement. Even in a stealth unit, they need to be able to be loud and they need to chose the right strategy for initial contact. In the absence of voice comms, everyone follows the tank and executes their own role. As such, tanks are de-facto commanders.
@@ -78,7 +78,7 @@ There are four roles in a DAC:
 * * Other options include the Sith Sorceror and Mercenaries.
 * Medic: No plan ever survives contact with the enemy, so the medics are around to keep everyone alive. Primarily a support class, the medics skills will make or break hard scenarios. Their knowledge also works as science and crafting officer.
 * * Exemplar: the Medicine Imperial Agent Operative -- the only stealth-capable healing specialty.
-* * Other options include Mercenaries and Sith Sorcerors.
+* * Other options include Mercenaries and Sith Sorcerers.
 * MDPS: Melee DPS are the close-quarters elimination specialists. Their job is to cause chaos within the enemy ranks, they float between covering all other members of the team. Specialized correctly, they can also fill in a second player in any other role -- shields and stuns for tanking, grenades, darts, and rifles for ranged, and medical probes for healing. This means the melee DPS needs to understand every other role and pay attention to how each team member is doing. Effectively, they become the communications officer.
 * * Exemplar: the Lethality Imperial Agent Operative -- stealth-capable with a large toolbox of stealth and damage-dealing abilities.
 * * Other options include Sith Warriors, Sith Assassins, and BH Powertechs.
@@ -88,7 +88,7 @@ Below are some example DAC formations by class. Each DAC should form according t
 ## Some DAC formations
 These formations optimize heals, damage mitigation, and damage dealing. They are ordered first by game, then by balance, and lastly by utility.
 
-| Nickname | Game | Tank | DPS1 | DPS2 | Heal |
+| Nickname | Game | Tank | DPS  | DPS  | Heal |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | Keeper's Ghosts | SWTOR | Darkness Assassin | Carnage Marauder | Lethality Operative | Medicine Operative |
 | Emperor's Hands | SWTOR | Darkness Assassin | Concealment Operative | Virulence Sniper | Medicine Operative |
@@ -97,11 +97,11 @@ These formations optimize heals, damage mitigation, and damage dealing. They are
 | Krennic's Revenge (Shoretrooper Skin) | Battlefront II | Shielded Heavy | Assault | Specialist | Officer |
 | Revived 181st | Squadrons | TIE defender | TIE bomber | TIE interceptor | TIE reaper |
 
-## Three-man DAC formations
+## Three-player DAC formations
 These are just some topical formations for three-man teams. They should use a ranged companion as a healer and focus on DPS. They're primarily intended for Veteran flashpoints, dailies, and heroics where their high DPS allows for speedruns.
 
-| Nickname | Game | DPS1 | DPS2 | DPS2 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
+| Nickname | Game | DPS  | DPS  | DPS  |
+| -------- | ---- | ---- | ---- | ---- | 
 | Inferno | SWTOR | Lethality Operative | Concealment Operative | Marksman Sniper |
 | Triumvirate | SWTOR | Rage Marauder | Madness Sorceror | Hatred Assassin |
 | Crimson Dawn | SWTOR | Advanced Prototype Powertech | Arsenal Mercenary | Pyrotech Mercenary |
