@@ -1,6 +1,8 @@
-These are our regularly scheduled events.
+These are our regularly scheduled events in the #cic channel, managed by [Minder Zero](https://top.gg/bot/658698521570181140). Note: when setting up recurring events, times on the recurring event need to be in UTC. Users, though, have trouble understanding that, so we set our time in [US Central](https://time.is/CDT).
 
 # Event 0: Gearing/Teaching Nights
+
+This event runs every Saturday from 21:00 to 00:00, usually, US Central Time.
 
 This progression is for folks new to the game to learn their class, abilities, rotations, and mechanics. Veteran flashpoints are much more forgiving and a good place to educate. These sign-ups are not for experienced players who want to speedrun and are easily frustrated with newcomers.
 
@@ -8,10 +10,12 @@ Minimum requirement is completing the starter planet -- once off Hutta or Korrib
 
 Minder Zero event command:
 ```
-m.create --advanced -title "Gearing/Teaching Night" -description "We will be running Veteran flashpoints to teach basic mechanics and abilities in SWTOR starting at 2100 US Central. Agents who sign up for several of these events are eligible for prizes from the Strategic Cache. <@!288682929180114954> will lead and fill any role needed. If multiple groups sign up, we will split by experience level so the groups have even balance of new and experienced members. Hopefully this will enhance your gameplay experience and open doors for you to get more loot!" -date "2021-04-10" -start 21:00 -end 00:00
+m.create --advanced -title "Gearing/Teaching Night" -description "We will be running Veteran flashpoints to teach basic mechanics and abilities in SWTOR starting at 2100 US Central. Agents who sign up for several of these events are eligible for prizes from the Strategic Cache. <@!288682929180114954> will lead and fill any role needed. If multiple groups sign up, we will split by experience level so the groups have even balance of new and experienced members. Hopefully this will enhance your gameplay experience and open doors for you to get more loot!" -date "2021-04-10" -start 02:00 -end 05:00
 ```
 
 # Event 1: Endgame Nights
+
+This event runs every Friday from 22:30 to 02:00, usually, US Central Time.
 
 This progression is for experienced players looking to make conquest points, in-game loot, and unlock achievements. Mastermodes and operations are best done with a known, communicating group, but we will still call the movements and tactics, adapting to fit everyone's experience level. Mastermodes require players to focus on filling multiple potential roles within the same phase, while operations test the limits of your ability within a specific role. All endgame content will push you to be your best self and teach you to optimize so that easier content is more efficient and enjoyable.
 
@@ -28,6 +32,6 @@ We will select the mission based on the below breakdown:
 
 Minder Zero event command:
 ```
-m.create --advanced -title "Endgame Night" -description "<@!288682929180114954> will lead the group through endgame content. Players should be 290+ iRating, max level, and ideally subscribed to meet in-game requirements. We will adjust the phase to fit the capabilities of the attending group -- our focus is on what challenges we can clear within 2-3 pulls. For a breakdown of our mission selection, see https://github.com/impintel/Wiki/blob/main/Schedule.md#master-mode-progression." -date "2021-04-09" -start 22:30 -end 02:00
+m.create --advanced -title "Endgame Night" -description "<@!288682929180114954> will lead the group through endgame content. Players should be 290+ iRating, max level, and ideally subscribed to meet in-game requirements. We will adjust the phase to fit the capabilities of the attending group -- our focus is on what challenges we can clear within 2-3 pulls. For a breakdown of our mission selection, see https://github.com/impintel/Wiki/blob/main/Schedule.md#master-mode-progression." -date "2021-04-09" -start 03:30 -end 07:00
 ```
 
